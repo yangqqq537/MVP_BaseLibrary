@@ -1,0 +1,38 @@
+
+{
+	"buildFiles" : [ "D:/project/PutuoMediaPlayer/base/CMakeLists.txt" ],
+	"cFileExtensions" : [ "c" ],
+	"cleanCommands" : 
+	[
+		"F:\\android\\android_Studio\\AndroidSDK\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build D:\\project\\PutuoMediaPlayer\\base\\.externalNativeBuild\\cmake\\debug\\armeabi-v7a --target clean"
+	],
+	"libraries" : 
+	{
+		"native-lib-Debug-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "native-lib",
+			"buildCommand" : "F:\\android\\android_Studio\\AndroidSDK\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build D:\\project\\PutuoMediaPlayer\\base\\.externalNativeBuild\\cmake\\debug\\armeabi-v7a --target native-lib",
+			"buildType" : "debug",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi --gcc-toolchain=F:/android/android_Studio/AndroidSDK/Android/Sdk/ndk-bundle/toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64 --sysroot=F:/android/android_Studio/AndroidSDK/Android/Sdk/ndk-bundle/platforms/android-18/arch-arm -Dnative_lib_EXPORTS  -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info -O0 -fno-limit-debug-info  -fPIC      -c ",
+					"src" : "D:/project/PutuoMediaPlayer/base/src/main/cpp/native-lib.c",
+					"workingDirectory" : "D:/project/PutuoMediaPlayer/base/.externalNativeBuild/cmake/debug/armeabi-v7a"
+				}
+			],
+			"output" : "D:/project/PutuoMediaPlayer/base/build/intermediates/cmake/debug/obj/armeabi-v7a/libnative-lib.so",
+			"toolchain" : "4232624481"
+		}
+	},
+	"toolchains" : 
+	{
+		"4232624481" : 
+		{
+			"cCompilerExecutable" : "F:/android/android_Studio/AndroidSDK/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe",
+			"cppCompilerExecutable" : "F:/android/android_Studio/AndroidSDK/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe"
+		}
+	}
+}

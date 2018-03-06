@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#579bdf</color>
+    <color name="white">#fff</color>
+    <color name="black">#152334</color>
+    <color name="blue">#33BAFF</color>
+    <color name="light_blue">#88ffffff</color>
+    <color name="line">#e8e8e8</color>
+    <color name="user_bg">#d8d8d8</color>
+
+    <color name="text_hint">#7d7c7c</color>
+    <color name="trans">#00000000</color>
+    <color name="yellow_tv">#f5c264</color>
+    <color name="yellow_scan">#f4ba81</color>
+    <color name="yellow_bg">#deb05c</color>
+
+</resources>

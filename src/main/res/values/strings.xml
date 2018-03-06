@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">运维工具</string>
+    <string name="username">用户名</string>
+    <string name="password">密码</string>
+    <string name="login">登录</string>
+    <string name="user_or_pwd_empty">用户名或者密码不能为空</string>
+    <string name="pwd_empty">密码不能为空</string>
+    <string name="pwd_big_to_6">密码必须大于6位</string>
+    <string name="eng_and_pwd">密码必须为数字字母组合</string>
+    <string name="old_pwd">原密码</string>
+    <string name="new_pwd">新密码</string>
+    <string name="confirm_pwd">确认密码</string>
+    <string name="confirm">确定</string>
+    <string name="modify_notify">首次登录需要设置新密码才能使用</string>
+    <string name="pwd_not_same">两次密码不一致</string>
+    <string name="location_failed">定位失败</string>
+
+</resources>
